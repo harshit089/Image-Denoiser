@@ -22,8 +22,7 @@ Denoising Process: Each pixel is updated based on a weighted average of similar 
 
 Output: The denoised image is displayed alongside the noisy input image.
 
-**Usage
-**
+**Usage**
 Clone this repository.
 
 Place your test image (e.g., test.png) in the working directory.
@@ -42,18 +41,15 @@ nl_means_denoising.m: MATLAB script implementing the NL-Means filter.
 
 test.png: Example input image (place your image here).
 
-**Results
-**
+**Results**
 The denoised image shows significant noise reduction while maintaining sharp edges and fine details. Below is an example comparison:
 
 Noisy Image
+![image](https://github.com/user-attachments/assets/d908afb2-49f6-49c2-8a20-d8b7e807e392)
+
 
 Denoised Image
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/8f3c1ebe-4e7b-473f-a2e8-7ed0e66a2312)
 
 
 License
