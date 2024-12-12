@@ -1,5 +1,5 @@
-**NL-Means Image Denoising
-**
+
+**NL-Means Image Denoising**
 This project implements a Non-Local Means (NL-Means) algorithm in MATLAB to denoise grayscale images by reducing Gaussian noise while preserving fine details.
 
 **Features**
